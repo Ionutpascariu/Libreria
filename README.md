@@ -23,7 +23,7 @@ Este proyecto Django es una aplicación web para gestionar una librería virtual
 - **urls.py:** Configuración de las URL del proyecto.
 - **wsgi.py:** Configuración para WSGI (Web Server Gateway Interface).
 
-  ## Estructura de la Aplicación "Libreria"
+## Estructura de la Aplicación "Libreria"
 
 - **admin.py:** Configuración del panel de administración.
 - **apps.py:** Configuración de la aplicación.
